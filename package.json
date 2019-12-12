@@ -1,0 +1,20 @@
+{
+	"name": "@jmquigley/prettier-config",
+	"version": "1.0.0",
+	"description": "My personal Prettier config",
+	"main": "index.json",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jmquigley/prettier-config.git"
+	},
+	"keywords": [
+		"prettier",
+		"config"
+	],
+	"author": "jmquigley <jmquigley@outlook.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/jmquigley/prettier-config/issues"
+	},
+	"homepage": "https://github.com/jmquigley/prettier-config#README"
+}
